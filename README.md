@@ -11,7 +11,7 @@ Ce projet est un mini-site personnel réalisé dans le cadre du module Développ
 - `style.css` : Fichier de styles unique regroupant toute la mise en forme.
 - `CVimage.png` : Photo de profil utilisée sur la page d'accueil.
 
-## Choix de Design (Redesign Style Roadmap.sh)
+## Choix de Design 
 
 - **Palette de couleurs** : Thème sombre profond (`#0b0b0b`) avec un accent **Vert Lime** (`#c5ff41`) pour un contraste maximal et un aspect technologique moderne.
 - **Typographie** : Utilisation de polices sans-serif audacieuses (`Inter`) avec des titres massifs et un espacement généreux.
